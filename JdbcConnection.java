@@ -43,6 +43,7 @@ public class JdbcConnection {
         } catch (Exception e) {
             e.printStackTrace();
         }
+     System.out.println("Done");
     }
 }
 
